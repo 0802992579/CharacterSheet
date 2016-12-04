@@ -1,0 +1,28 @@
+c:\users\olafur\documents\visual studio 2015\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+D:\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\bin\Debug\MySql.Data.dll
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\olafur\Documents\Visual Studio 2015\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+D:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+D:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+D:\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+D:\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+D:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+D:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+D:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+D:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Ásdís\Documents\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
