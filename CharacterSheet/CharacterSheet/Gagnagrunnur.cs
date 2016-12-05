@@ -220,7 +220,7 @@ namespace CharacterSheet
            if (OpenConnection() == true)
             {
                 //query-in sem á að keyrast (má líka fyrir ofan if setninguna
-                fyrirspurn = "SELECT * FROM abilitis WHERE CharacterID ='" + CharacterID + "'";
+                fyrirspurn = "SELECT * FROM abilities WHERE CharacterID ='" + CharacterID + "'";
                 //create command and assign the the query(fyrirspurn) and connection(tengingu)
                 nySQLskipun = new MySqlCommand(fyrirspurn, sqltenging);
                 sqllesari = nySQLskipun.ExecuteReader();
